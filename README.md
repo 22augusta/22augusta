@@ -1,5 +1,5 @@
 ### 
-- 👋 Olá, sou @ 22augusta
+- 👋 Olá, sou @22augusta
 - 👀 Estou interessado em 
 - 🌱 Atualmente estou aprendendo  
 - 💞️ Estou procurando colaborar em ...
