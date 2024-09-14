@@ -1,4 +1,4 @@
-👋 Olá! Sou Maria Augusta, apaixonada por tecnologia. Minha jornada começou com uma graduação em Ciências Contábeis e vários anos de experiência como contadora. No entanto, meu entusiasmo por tecnologia me levou a seguir um novo caminho.
+👋 Olá! Sou Maria Augusta, apaixonada por tecnologia. Minha jornada começou com uma graduação em Ciências Contábeis e alguns anos de experiência como contadora. No entanto, meu entusiasmo por tecnologia me levou a seguir um novo caminho.
 
 🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac, como parte do projeto do Embarque Digital. Estou empolgada com a oportunidade de mergulhar no mundo da programação e desenvolvimento de sistemas.
 
