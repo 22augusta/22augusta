@@ -6,13 +6,6 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas, onde aprimoro minhas h
 
 Busco oportunidades para atuar em desenvolvimento de software e análise de dados, onde possa aplicar minha expertise com números, minha mentalidade analítica e minha paixão por tecnologia. Quero fazer parte de projetos desafiadores, que impactem positivamente negócios e pessoas.
 
-💡 Habilidades:
-✔️ Lógica de Programação | Estruturas de Dados
-✔️ Banco de Dados | SQL | Análise de Dados
-✔️ Back-end | JavaScript | Python
-✔️ Gestão de Projetos | Resolução de Problemas
-✔️ Aprendizado Rápido | Pensamento Analítico
-
 Estou aberta a projetos e oportunidades na área de tecnologia! Vamos conversar? 🚀
 
   ##
