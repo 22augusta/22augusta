@@ -1,12 +1,12 @@
-💻 De Contabilidade para Tecnologia: Transformando Dados em Soluções
+Se tem uma coisa que eu gosto, é de resolver problemas. Sempre fui aquela pessoa que olha para um processo e pensa: "Ok, mas como isso pode ser mais eficiente?"
 
-Sempre fui fascinada por dados, análise e solução de problemas. Durante minha trajetória na contabilidade, desenvolvi habilidades analíticas, pensamento crítico e uma visão estratégica sobre processos financeiros. Agora, estou canalizando essa experiência para a área de tecnologia, com foco em desenvolvimento de software e análise de dados.
+Foi assim que a contabilidade me levou para a tecnologia. Trabalhando com números, percebi que a parte que mais me empolgava era estruturar, analisar e automatizar processos. Então, resolvi levar isso a sério e migrar para o desenvolvimento de software.
 
-Atualmente, curso Análise e Desenvolvimento de Sistemas, onde aprimoro minhas habilidades em lógica de programação, estrutura de dados, banco de dados, back-end e front-end. Minha facilidade de aprendizado e curiosidade me impulsionam a explorar novas tecnologias e metodologias ágeis para desenvolver soluções eficientes e inovadoras.
+Hoje, estudo Análise e Desenvolvimento de Sistemas e mergulho de cabeça em back-end, lógica de programação e análise de dados. JavaScript e Python são meus parceiros de código, SQL é minha linguagem para dar sentido aos dados, e metodologias ágeis fazem parte da minha rotina.
 
-Busco oportunidades para atuar em desenvolvimento de software e análise de dados, onde possa aplicar minha expertise com números, minha mentalidade analítica e minha paixão por tecnologia. Quero fazer parte de projetos desafiadores, que impactem positivamente negócios e pessoas.
+O que eu busco? Projetos que façam sentido. Que desafiem, que gerem impacto, que tragam soluções inteligentes para problemas reais.
 
-Estou aberta a projetos e oportunidades na área de tecnologia! Vamos conversar? 🚀
+Se você também acredita que tecnologia é para transformar e facilitar a vida, bora trocar uma ideia! 
 
 <div align="center">
   <a href="https://github.com/22augusta">
