@@ -14,6 +14,7 @@ Se você também acredita que tecnologia é para transformar e facilitar a vida,
   <a href = "mailto:aguiar.maria22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://instagram.com/22_augusta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
+
  ##
 <div align="center">
     <img align="center" height="30" width="40" alt="Arduino" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
@@ -25,6 +26,7 @@ Se você também acredita que tecnologia é para transformar e facilitar a vida,
     <img align="center" height="30" width="40" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" height="30" width="40" alt="MySql" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg">
 </div>
+
 ##
 <div align="center">
   <a href="https://github.com/22augusta">
